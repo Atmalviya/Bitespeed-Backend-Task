@@ -98,7 +98,7 @@ The application is hosted on Render. You can access it at:
 
 ### Endpoint: 
 ```bash
-  https://bitespeed-backend-task-rby0.onrender.com
+  https://bitespeed-backend-task-rby0.onrender.com/identify
 ```
 
 
