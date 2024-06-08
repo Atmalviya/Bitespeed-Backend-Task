@@ -42,14 +42,15 @@ This project is a backend service for identity reconciliation, designed to link 
 ## Environment Variables
 
 Set up your environment variables:
+Following are my credentials for you to use
 
-`DB_NAME=your_database_name`
+`DB_NAME=sql12712599`
 
-`DB_USER=your_database_username`
+`DB_USER=sql12712599`
 
-`DB_PASSWORD=your_database_password`
+`DB_PASSWORD=Ry17YeP9RJ`
 
-`DB_HOST=your_database_host`
+`DB_HOST=sql12.freesqldatabase.com`
 
 `DB_PORT=3306`
 
